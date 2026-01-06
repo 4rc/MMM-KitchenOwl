@@ -1,0 +1,20 @@
+{
+  "name": "MMM-KitchenOwl",
+  "version": "1.0.0",
+  "description": "MagicMirror module for KitchenOwl (Self-Hosted) shopping lists",
+  "main": "node_helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "magicmirror",
+    "kitchenowl",
+    "shopping-list",
+    "smart-home"
+  ],
+  "author": "FBRZ",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}

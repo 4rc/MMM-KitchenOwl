@@ -73,3 +73,8 @@ Simply edit the `MMM-KitchenOwl.js` file and modify the `getIcon` function to ad
 
 ## License
 MIT
+
+## 🤖 AI Disclaimer
+This module was developed with extensive assistance from **Artificial Intelligence** (Google Gemini).
+Code logic, error handling, and documentation were refined through AI-Human collaboration.
+It serves as a testament to what can be built with modern AI-assisted programming.

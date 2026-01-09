@@ -1,3 +1,7 @@
+/* 
+ * Developed by 4rc with AI Assistance (Gemini) 
+ */ 
+
 Module.register("MMM-KitchenOwl", {
     defaults: {
         apiUrl: "",
